@@ -1,0 +1,99 @@
+¿Qué nos dice la norma ISO 9001?
+7.5.3 Control de la información documentada
+
+7.5.3.1 La información documentada requerida por el sistema de gestión de la calidad y por esta
+Norma Internacional se debe controlar para asegurarse de que:
+
+a) esté disponible y sea idónea para su uso, donde y cuando se necesite;
+b) esté protegida adecuadamente (por ejemplo, contra pérdida de la confidencialidad, uso inadecuado o pérdida de integridad).
+
+7.5.3.2 Para el control de la información documentada, la organización debe abordar las siguientes
+actividades, según corresponda:
+
+a) distribución, acceso, recuperación y uso;
+b) almacenamiento y preservación, incluida la preservación de la legibilidad;
+c) control de cambios (por ejemplo, control de versión);
+d) conservación y disposición.
+
+La información documentada de origen externo, que la organización determina como necesaria para la planificación y operación del sistema de gestión de la calidad, se debe identificar, según sea apropiado, y controlar.
+La información documentada conservada como evidencia de la conformidad debe protegerse contra modificaciones no intencionadas.
+NOTA El acceso puede implicar una decisión en relación al permiso, solamente para consultar la información documentada, o al permiso y a la autoridad para consultar y modificar la información documentada.
+
+Si tienes dudas respecto a cuáles son los documentos obligatorios exigidos por la norma puedes visitar nuestro artículo sobre los Documentos Obligatorios ISO 9001:2015.
+
+Los requisitos de las normas son muy concretos, pero no nos dicen exactamente cómo cumplirlos para nuestra organización. Un problema frecuente en las organizaciones que se encuentran certificadas o implementando la norma ISO 9001, es el control de los documentos que se generan. Para facilitar el control de la información documentada, proponemos lo siguiente:
+1. Establecer un procedimiento documentado para;
+Aprobar los documentos en cuanto a su adecuación antes de su emisión (Quién será responsable de aprobarlos)
+La revisión, actualización y re aprobación de los documentos.
+Identificar los cambios y el estado actual de revisión del documento.
+Poner a disposición documentos relevantes.
+Asegurar la legibilidad de los documentos y sean fácilmente identificables.
+Identificar los documentos externos y controlar su distribución.
+Prevenir el uso de documentos obsoletos, e identificar adecuadamente si se conservan los mismos.
+2. Identificar la documentación
+Diseñe un encabezado que se pueda utilizar en toda la documentación, incluyendo  el logotipo o nombre de la organización, el nombre del documento, el código, la fecha y el número de versión.
+
+El código del documento, servirá para ser identificado rápidamente, y queda a total libertad de la organización elegir de qué manera va a codificarlo.
+
+La revisión es un número que cambia cada vez que realiza una modificación al documento, puede comenzar en 00 al crearlo y aumentarlo en 1 cada vez que se apruebe un cambio. Esto sirve para que el lector sepa si está utilizando la última versión del documento o si tiene una versión obsoleta.
+
+3. Crear una lista maestra o mapa de documentos
+Modelo de mapa de documentos
+Modelo Mapa de Documentos
+
+Elabore un registro en el que se listen todos los documentos del sistema de gestión de la calidad con información básica de los mismos. (Nombre + código + responsabilidades + versión + tiempo de guarda + formato + ubicación)
+
+Recuerda agregar también los documentos externos.
+
+Puedes descargar un modelo de mapa de documentos para completar y modificar haciendo clic en la imagen.
+
+ 
+
+ 
+
+4. Copia controlada
+Hoy en día la mayoría de las organizaciones deciden ir eliminando poco a poco el papel, reemplazando los documentos impresos por archivos digitales. Lo que se recomienda es que se concentren todos los documentos en una carpeta compartida de red y se guarden en formato PDF, para que no puedan ser modificados por error.
+
+Aun así muchas veces es necesario imprimir copias de los documentos para que se encuentren disponibles para los que no tengan acceso a una computadora. Estas copias deberán sellarse con la leyenda de «copia controlada» en cada una de sus hojas.
+
+Tener la leyenda de copia controlada no garantiza un buen control ni asegura que los documentos con los que se dispone se encuentren actualizados, por lo que a su vez, se deberá realizar un documento donde se registren todas las copias que son entregadas, con su respectivo código, número de versión, número de copia, en qué área se hace entrega y quién es el responsable y el cargo que ocupa. Esto facilitará el reemplazo del documento cuando surja una modificación y cambie de versión.
+
+5. Documentos obsoletos
+Muchas veces el almacenamiento de información documentada obsoleta puede ser requerida por la organización como por ejemplo para investigación de reclamos muchos años después de su producción, o para diferentes fines como la gestión del conocimiento organizacional. Una de las formas de guardar documentos obsoletos digitales para su histórico, es comprimir los documentos y protegerlos con contraseña impidiendo así el uso involuntario.
+
+Para la eliminación de la información documentada obsoleta e innecesaria, la organización debe tener en cuenta el control de datos sensibles, como por ejemplo información personal o confidencial, durante el proceso de eliminación.
+
+En ambos casos se deberá describir cuales son las actividades que se desarrollarán para el almacenamiento y/o eliminación de documentos obsoletos y de qué manera se asegurará el uso involuntario de éstos.  Para ello se recomienda identificar las copias obsoletas, (marca de agua/sellos) ya sean en formato digital o físico, separarlos de los otros documentos vigentes y en caso de eliminación se describa en el procedimiento, cómo se llevará a cabo el proceso.
+
+ 
+
+6. Software de gestión de documentos
+El beneficio de contar con un software para la gestión de documentos, es que todo el control de documentos desde la creación, modificación, distribución, aprobación, accesibilidad, recuperación, uso, almacenamiento, impresión de copias, obsoletos, mapa de documentos, entre otras actividades, se encuentran controladas en un solo lugar. Además en el software DOC de Qualyteam, es posible crear campos personalizados, para ser completados cada vez que se elabore un documento.
+
+ 
+
+
+
+ 
+
+El sistema nos facilita la elaboración, consenso, aprobación y revisión de los documentos de la empresa, lo que disminuye el tiempo de trabajo que se pierde entregando y solicitando firmas para las aprobaciones, también avisa a los responsables por correo electrónico, que tienen un acción pendiente sobre un documento por lo que evitará olvidos no intencionados.
+
+Asimismo podemos designar permisos específicos para el acceso o impresión de documentos, incluso para descargarlos. Por lo que podemos controlar la visualización de los documentos a determinadas personas, y mantiene actualizados a todos los usuarios ya que los notifica cuando los documentos fueron modificados o incluso cuando estuvieran por vencer.
+
+DOC está diseñado para cumplir con los requisitos, y será mucho más fácil demostrar la conformidad a los auditores. Por Ejemplo en el punto 7.5.3.2 para el control de la información documentada, la organización debe abordar las siguientes actividades:
+
+a) distribución, acceso, recuperación y uso;
+
+La DISTRIBUCIÓN se encuentra en la pantalla de consulta de DOC y es enviado por correo electrónico a los responsables y el ACCESO al sistema es controlado por contraseña. Cada documento dentro de DOC tiene un acceso controlado, mediante los permisos en la pantalla de registro. La RECUPERACIÓN se realiza mediante la pantalla de consulta utilizando los filtros disponibles.
+
+b) almacenamiento y preservación, incluida la preservación de la legibilidad;
+
+El ALMACENAMIENTO se encuentra en servidores propios del software, por lo que no tenemos que preocuparnos por mantener un backup, tendremos toda la información disponible sin riesgo a perderla. La PRESERVACIÓN de los documentos se encuentra garantizada conforme a contrato y se realizan copias de respaldo diarias realizadas por el mismo software. 
+
+c) control de cambios (por ejemplo, control de versión);
+
+CONTROL DE CAMBIOS, cada vez que se modifica un documento, el mismo software incrementa en +1 el código de la versión, por lo que ningún documento quedará desactualizado, a su vez el software notificará las modificaciones vía correo electrónico a los responsables.
+
+d) conservación y disposición.
+
+La CONSERVACIÓN y DISPOSICIÓN se hace en el mismo sistema, tal como su disposición, todos los documentos podrán ser reemplazados, inactivados o eliminados del sistema. 
